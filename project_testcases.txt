@@ -1,0 +1,155 @@
+<<<<<<<<<<<<<<<<<<<<<< Example 1 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+% should guess random vector A
+random vector A = [9, 1, 5]
+
+guess = [1, 2, 3]
+This is your 1 attempt(s)
+You got 1 right digit(s) and 0 right place(s)
+
+guess = [1, 4, 5]
+This is your 2 attempt(s)
+You got 2 right digit(s) and 1 right place(s)
+
+guess = [5, 1, 9]
+This is your 3 attempt(s)
+You got 3 right digit(s) and 1 right place(s)
+
+guess = [9, 1, 5] (because A=guess)
+Yay! you get the right number! Good job!
+You are a master of this game! Awesome!
+
+<<<<<<<<<<<<<<<<<<<<<< Example 2 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+% should guess random vector A
+random vector A = [5, 2, 4]
+
+guess = [0, 0, 0]
+You entered the same number. Please enter three different digits.
+
+guess = [1, 2, 3]
+This is your 1 attempt(s)
+You got 1 right digit(s) and 1 right place(s)
+
+guess = [4, 5, 6]
+This is your 2 attempt(s)
+You got 2 right digit(s) and 0 right place(s)
+
+guess = [7, 8, 9]
+This is your 3 attempt(s)
+You got 0 right digit(s) and 0 right place(s)
+
+guess = [0, 1, 2]
+This is your 4 attempt(s)
+You got 1 right digit(s) and 0 right place(s)
+
+guess = [1, 2, 4]
+This is your 5 attempt(s)
+You got 2 right digit(s) and 2 right place(s)
+
+guess = [1, 5, 4]
+This is your 6 attempt(s)
+You got 2 right digit(s) and 1 right place(s)
+
+guess = [4, 4, 4] % when the user entered the same number!
+You entered the same number. Please enter three different digits.
+
+guess = [5, 2, 4] 
+Yay! you get the right number! Good job!
+You are an intermediate of this game! Good job!
+
+<<<<<<<<<<<<<<<<<<<<<< Example 3 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+% should guess random vector A
+random vector A = [3, 7, 0]
+
+guess = [8, 8, 8]
+You entered the same number. Please enter three different digits.
+
+guess = [1, 2, 3]
+This is your 1 attempt(s)
+You got 1 right digit(s) and 0 right place(s)
+
+guess = [4, 5, 6]
+This is your 2 attempt(s)
+You got 0 right digit(s) and 0 right place(s)
+
+guess = [7, 8, 9]
+This is your 3 attempt(s)
+You got 1 right digit(s) and 0 right place(s)
+
+guess = [0, 1, 2]
+This is your 4 attempt(s)
+You got 1 right digit(s) and 0 right place(s)
+
+guess = [1, 4, 8]
+This is your 5 attempt(s)
+You got 0 right digit(s) and 0 right place(s)
+
+guess = [2, 5, 9]
+This is your 6 attempt(s)
+You got 0 right digit(s) and 0 right place(s)
+
+guess = [4, 4, 4] % when the user entered the same number!
+You entered the same number. Please enter three different digits.
+
+guess = [3, 6, 9]
+This is your 7 attempt(s)
+You got 1 right digit(s) and 1 right place(s)
+
+guess = [3, 7, 9]
+This is your 8 attempt(s)
+You got 2 right digit(s) and 2 right place(s)
+
+guess = [3, 7, 0] 
+Yay! you get the right number! Good job!
+You are a beginner of this game! Good job!
+
+<<<<<<<<<<<<<<<<<<<<<< Example 4 >>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+% should guess random vector A
+random vector A = [3, 5, 4]
+
+guess = [1, 1, 1]
+You entered the same number. Please enter three different digits.
+
+guess = [1, 2, 3]
+This is your 1 attempt(s)
+You got 1 right digit(s) and 0 right place(s)
+
+guess = [4, 5, 6]
+This is your 2 attempt(s)
+You got 2 right digit(s) and 1 right place(s)
+
+guess = [7, 8, 9]
+This is your 3 attempt(s)
+You got 3 right digit(s) and 0 right place(s)
+
+guess = [0, 1, 2] 
+This is your 4 attempt(s)
+You got 0 right digit(s) and 0 right place(s)
+
+guess = [1, 4, 7] 
+This is your 5 attempt(s)
+You got 1 right digit(s) and 0 right place(s)
+
+guess = [2, 4, 5] 
+This is your 6 attempt(s)
+You got 2 right digit(s) and 0 right place(s)
+
+guess = [3, 4, 5]
+This is your 7 attempt(s)
+You got 3 right digit(s) and 1 right place(s)
+
+guess = [4, 3, 5]
+This is your 8 attempt(s)
+You got 3 right digit(s) and 0 right place(s)
+
+guess = [5, 4, 3] 
+This is your 9 attempt(s)
+You got 3 right digit(s) and 0 right place(s)
+
+guess = [5, 3, 5]
+This is your 10 attempt(s) % when the user tried it 10 times
+The game is over! Try it again!
+
